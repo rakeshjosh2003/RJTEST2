@@ -1,4 +1,4 @@
- # RJTEST2
-TEST repo
+ # RJreadtest2
+readtest repo
 Hello Worlds
-TESTGM2026
+readtestGM2026
